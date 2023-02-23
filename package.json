@@ -1,0 +1,31 @@
+{
+  "name": "statevo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clota974/statevo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clota974/statevo/issues"
+  },
+  "homepage": "https://github.com/clota974/statevo#readme",
+  "dependencies": {
+    "jest": "^29.4.3",
+    "react": "^18.2.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@types/jest": "^29.4.0",
+    "@types/react": "^18.0.28",
+    "jest-environment-jsdom": "^29.4.3",
+    "ts-jest": "^29.0.5"
+  }
+}
